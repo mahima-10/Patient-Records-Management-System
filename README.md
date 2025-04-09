@@ -61,7 +61,7 @@ The **Patient Records Management System** is a robust web-based application desi
 ## 💻 Installation and Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/patient-records-management.git
+   git clone https://github.com/mahima-10/patient-records-management.git
    cd patient-records-management
 2. **Run the file**:
    ```bash
